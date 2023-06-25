@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.chan.rest.client.RestTemplateAutoConfiguration,\
+cn.chan.rest.log.LoggingWebClientAutoConfiguration
